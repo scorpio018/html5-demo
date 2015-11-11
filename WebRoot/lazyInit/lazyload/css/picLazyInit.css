@@ -6,13 +6,14 @@
 
 .content {
 	text-align: center;
-	margin: 0 50px 0 50px;
-	width: auto;
-	height: auto;
-}
-.content img {
-	display: block;
 	margin: 0 auto;
 	width: 800px;
 	height: auto;
+}
+
+.lazy {
+	display: block;
+	width: 800px;
+	height: auto;
+	margin: 10px 0;
 }
